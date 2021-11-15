@@ -5,7 +5,6 @@ const BlogList  = (props) => {
     const title = props.title
 
     // props.blogs is pulling it from Home.js component where it was defined
-    // 
     // const BlogList  = ({blogs, title, hadnelDelete}) => {
 
     return ( 
